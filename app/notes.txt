@@ -1,0 +1,10 @@
+- Session setup -> always fetch from remote in case online, otherwise use the cached data // done
+- on create a new section, check internet connection // done
+- Other -> placeholder should be point name // done
+- clicking on edit point should require internet // done
+- attendance toast should last longer // done
+- need a badge to indicate editing mode // done
+- edit screen -> can only edit the same point type // done
+- in capture screen, can load all points for consistent naming of points // done
+
+- ready state logging bug
