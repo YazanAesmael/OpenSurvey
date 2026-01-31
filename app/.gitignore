@@ -1,0 +1,42 @@
+# =========================================================
+# Standard Android Studio ignores
+# =========================================================
+*.iml
+.gradle/
+.local.properties
+/.idea/
+/.DS_Store
+/build/
+**/build/
+**/intermediates/
+**/kotlin/
+.externalNativeBuild
+.cxx
+*.class
+*.log
+*.hprof
+captures/
+
+# =========================================================
+# Ignore all secret keys and credential files
+# =========================================================
+keystore.properties
+*.jks
+*.keystore
+*.pepk
+/*.json
+init_ssh
+init_ssh.pub
+
+# =========================================================
+# Build artifacts
+# =========================================================
+*.apk
+*.aab
+**/release/
+
+# =========================================================
+# Misc
+# =========================================================
+/app/src/main/java/com/lifease/Bugs & Tasks
+/app/src/main/java/com/lifease/git
